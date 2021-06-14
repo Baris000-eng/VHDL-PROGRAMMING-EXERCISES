@@ -3,9 +3,9 @@ These are the VHDL implementations that I have done.
 
 Implementations
 
-4-Bit ALU
+4-Bit ALU (4-Bit Arithmetic and Logic Unit)
 
-1-Bit ALU
+1-Bit ALU (1-Bit Arithmetic and Logic Unit)
 
 4-Bit Comparator
 
