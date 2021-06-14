@@ -1,5 +1,5 @@
 # VHDL-PROGRAMMING-EXERCISES
-This is the VHDL lab implementations that I have done so far.
+These are the VHDL implementations that I have done.
 
 Implementations
 
